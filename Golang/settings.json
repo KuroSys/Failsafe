@@ -1,0 +1,4 @@
+{
+    "Monitored": ["Minecraft", "failsafe", "htop"],
+    "Interval": 60
+}
