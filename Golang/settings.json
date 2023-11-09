@@ -1,0 +1,5 @@
+{
+    "Monitored": ["Minecraft", "htop"],
+    "Interval": 5,
+    "Screener": ["screen -dmS Minecraft htop", "screen -dmS htop htop"]
+}
