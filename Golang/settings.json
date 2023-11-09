@@ -1,5 +1,0 @@
-{
-    "Monitored": ["Minecraft", "htop"],
-    "Interval": 5,
-    "Screener": ["screen -dmS Minecraft /home/mc/run.sh", "screen -dmS htop htop"]
-}
